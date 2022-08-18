@@ -1,0 +1,8 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\bin\Debug\AreaCirculo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaCirculo\AreaCirculo\obj\Debug\AreaCirculo.pdb
