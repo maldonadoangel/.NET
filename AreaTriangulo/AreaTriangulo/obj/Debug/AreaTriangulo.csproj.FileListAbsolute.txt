@@ -1,0 +1,8 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
