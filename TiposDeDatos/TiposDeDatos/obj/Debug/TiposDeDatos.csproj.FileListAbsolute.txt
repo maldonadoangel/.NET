@@ -1,0 +1,8 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.pdb

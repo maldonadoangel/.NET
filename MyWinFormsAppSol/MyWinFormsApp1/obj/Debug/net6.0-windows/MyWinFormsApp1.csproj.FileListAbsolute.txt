@@ -1,0 +1,17 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\bin\Debug\net6.0-windows\MyWinFormsApp1.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\bin\Debug\net6.0-windows\MyWinFormsApp1.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\bin\Debug\net6.0-windows\MyWinFormsApp1.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\bin\Debug\net6.0-windows\MyWinFormsApp1.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\bin\Debug\net6.0-windows\MyWinFormsApp1.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\refint\MyWinFormsApp1.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\MyWinFormsApp1.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MyWinFormsAppSol\MyWinFormsApp1\obj\Debug\net6.0-windows\ref\MyWinFormsApp1.dll
