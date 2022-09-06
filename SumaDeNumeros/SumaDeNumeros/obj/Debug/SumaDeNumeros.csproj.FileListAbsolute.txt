@@ -1,0 +1,11 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\bin\Debug\SumaDeNumeros.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\SumaDeNumeros\SumaDeNumeros\obj\Debug\SumaDeNumeros.pdb
