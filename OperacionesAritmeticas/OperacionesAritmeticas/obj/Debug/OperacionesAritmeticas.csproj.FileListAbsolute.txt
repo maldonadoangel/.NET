@@ -1,0 +1,11 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\OperacionesAritmeticas\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb
