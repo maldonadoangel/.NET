@@ -1,0 +1,11 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\bin\Debug\AplicacionListaDeObjetos.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\bin\Debug\AplicacionListaDeObjetos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\bin\Debug\AplicacionListaDeObjetos.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\AplicacionListaDeObjetos\AplicacionListaDeObjetos\obj\Debug\AplicacionListaDeObjetos.pdb

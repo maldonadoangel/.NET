@@ -1,0 +1,11 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\bin\Debug\CalculadoraDeMasaCorporal.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\bin\Debug\CalculadoraDeMasaCorporal.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\bin\Debug\CalculadoraDeMasaCorporal.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CalculadoraDeMasaCorporal\CalculadoraDeMasaCorporal\obj\Debug\CalculadoraDeMasaCorporal.pdb

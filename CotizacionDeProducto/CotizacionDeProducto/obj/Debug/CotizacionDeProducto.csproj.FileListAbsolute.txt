@@ -1,0 +1,11 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\bin\Debug\CotizacionDeProducto.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\bin\Debug\CotizacionDeProducto.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\bin\Debug\CotizacionDeProducto.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionDeProducto\CotizacionDeProducto\obj\Debug\CotizacionDeProducto.pdb
