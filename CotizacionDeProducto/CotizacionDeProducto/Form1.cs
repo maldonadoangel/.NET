@@ -33,6 +33,7 @@ namespace CotizacionDeProducto
 
         private void calcularValor(double producto, double descuento)
         {
+            //creamos la variable precioFinal que guardara el valor calculado
             double precioFinal;
             precioFinal = producto - (producto * (descuento/100));
             MessageBox.Show($"El valor Final del producto es: {precioFinal}");
