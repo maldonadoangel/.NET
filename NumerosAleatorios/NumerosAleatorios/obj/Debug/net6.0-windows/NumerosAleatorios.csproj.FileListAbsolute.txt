@@ -1,0 +1,17 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\bin\Debug\net6.0-windows\NumerosAleatorios.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\bin\Debug\net6.0-windows\NumerosAleatorios.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\bin\Debug\net6.0-windows\NumerosAleatorios.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\bin\Debug\net6.0-windows\NumerosAleatorios.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\bin\Debug\net6.0-windows\NumerosAleatorios.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\refint\NumerosAleatorios.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\NumerosAleatorios.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\NumerosAleatorios\NumerosAleatorios\obj\Debug\net6.0-windows\ref\NumerosAleatorios.dll
