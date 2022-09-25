@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Excepciones\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll
