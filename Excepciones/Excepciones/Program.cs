@@ -15,10 +15,11 @@ do
     Console.WriteLine("Ingrese un numero para adivinar: ");
     try
     {
-        numero = Convert.ToInt32(Console.ReadLine());
-    }catch(FormatException ex)
+        numero = int.Parse(Console.ReadLine());
+    }catch(Exception e)
     {
         Console.WriteLine("No haz introducido un valor numerico valido, se tomara como valor por defecto el 0");
+        Console.WriteLine(e.Message);
     }
     
     if(numero > numeroRandom)
