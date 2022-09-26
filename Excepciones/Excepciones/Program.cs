@@ -16,9 +16,15 @@ do
     try
     {
         numero = int.Parse(Console.ReadLine());
-    }catch(Exception e)
+    }
+    catch (FormatException e) //Excepcion especifica de formato
+    {
+        Console.WriteLine("Error, haz introducido un texto, el valor por defecto sera de 0");
+    }
+    catch (Exception e) // Excepcion generica
     {
         Console.WriteLine("No haz introducido un valor numerico valido, se tomara como valor por defecto el 0");
+        //Para mostrar que tipo de error ha capturado Exception
         Console.WriteLine(e.Message);
     }
     
