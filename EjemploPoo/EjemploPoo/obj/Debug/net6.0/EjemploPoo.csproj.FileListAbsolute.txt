@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\bin\Debug\net6.0\EjemploPoo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\bin\Debug\net6.0\EjemploPoo.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\bin\Debug\net6.0\EjemploPoo.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\bin\Debug\net6.0\EjemploPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\bin\Debug\net6.0\EjemploPoo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\refint\EjemploPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\EjemploPoo.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EjemploPoo\EjemploPoo\obj\Debug\net6.0\ref\EjemploPoo.dll
