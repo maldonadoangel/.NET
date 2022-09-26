@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\bin\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\refint\LanzamientoExcepciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\LanzamientoExcepciones.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\LanzamientoExcepciones\LanzamientoExcepciones\obj\Debug\net6.0\ref\LanzamientoExcepciones.dll
