@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\bin\Debug\net6.0\ConceptosPoo.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\bin\Debug\net6.0\ConceptosPoo.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\bin\Debug\net6.0\ConceptosPoo.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\bin\Debug\net6.0\ConceptosPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\bin\Debug\net6.0\ConceptosPoo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\refint\ConceptosPoo.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ConceptosPoo.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ConceptosPoo\ConceptosPoo\obj\Debug\net6.0\ref\ConceptosPoo.dll
