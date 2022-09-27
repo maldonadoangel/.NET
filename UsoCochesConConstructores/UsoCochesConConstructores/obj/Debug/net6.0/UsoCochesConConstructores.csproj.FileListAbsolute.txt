@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\bin\Debug\net6.0\UsoCochesConConstructores.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\bin\Debug\net6.0\UsoCochesConConstructores.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\bin\Debug\net6.0\UsoCochesConConstructores.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\bin\Debug\net6.0\UsoCochesConConstructores.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\bin\Debug\net6.0\UsoCochesConConstructores.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\refint\UsoCochesConConstructores.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\UsoCochesConConstructores.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\UsoCochesConConstructores\UsoCochesConConstructores\obj\Debug\net6.0\ref\UsoCochesConConstructores.dll
