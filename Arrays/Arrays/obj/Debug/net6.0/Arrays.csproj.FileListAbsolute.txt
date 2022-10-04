@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arrays\Arrays\obj\Debug\net6.0\ref\Arrays.dll
