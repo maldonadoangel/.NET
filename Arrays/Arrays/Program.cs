@@ -18,6 +18,7 @@ numeros[4] = 400;
 // Otra forma de agregar los datos
 int[] listaNumero = new int[5] { 10, 23, 50, 24, 54 };
 
+Console.ForegroundColor = ConsoleColor.Red;
 for (int i = 0; i < numeros.Length; i++)
 {
     
@@ -37,8 +38,24 @@ Console.WriteLine($"El tamaño de la lista: {listaNumero.Length}");
 
 //Otra forma de crear un array
 int[] numeros2 = { 1, 2, 3, 4, 5, 6, 19, 32 };
-
+Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("a continuación veremos los valores que contiene numeros2, el cual es un arreglo");
+Console.ReadKey();
 for (int index = 0; index < numeros2.Length; index++)
 {
-    Console.WriteLine(numeros2[index]);
+    
+    Console.WriteLine($"numeros2[{numeros2[index]}]");
+    Console.ReadKey();
+
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("--------------------------------------------------------");
+string[] nombres = {"Angel", "Hernan", "Jose", "Pablo"};
+
+
+//Uso del foreach en arreglos
+foreach(string objetoNombre in nombres)
+{
+    Console.WriteLine(objetoNombre);
 }
