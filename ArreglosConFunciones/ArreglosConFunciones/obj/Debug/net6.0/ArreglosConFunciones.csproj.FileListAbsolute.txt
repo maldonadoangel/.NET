@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\bin\Debug\net6.0\ArreglosConFunciones.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\bin\Debug\net6.0\ArreglosConFunciones.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\bin\Debug\net6.0\ArreglosConFunciones.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\bin\Debug\net6.0\ArreglosConFunciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\bin\Debug\net6.0\ArreglosConFunciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\refint\ArreglosConFunciones.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ArreglosConFunciones.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ArreglosConFunciones\ArreglosConFunciones\obj\Debug\net6.0\ref\ArreglosConFunciones.dll
