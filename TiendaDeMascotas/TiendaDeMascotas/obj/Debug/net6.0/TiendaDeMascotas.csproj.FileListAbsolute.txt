@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\bin\Debug\net6.0\TiendaDeMascotas.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\bin\Debug\net6.0\TiendaDeMascotas.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\bin\Debug\net6.0\TiendaDeMascotas.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\bin\Debug\net6.0\TiendaDeMascotas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\bin\Debug\net6.0\TiendaDeMascotas.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\refint\TiendaDeMascotas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\TiendaDeMascotas.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\TiendaDeMascotas\TiendaDeMascotas\obj\Debug\net6.0\ref\TiendaDeMascotas.dll
