@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\bin\Debug\net6.0\PooBebida.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\bin\Debug\net6.0\PooBebida.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\bin\Debug\net6.0\PooBebida.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\bin\Debug\net6.0\PooBebida.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\bin\Debug\net6.0\PooBebida.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\refint\PooBebida.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\PooBebida.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\PooBebida\PooBebida\obj\Debug\net6.0\ref\PooBebida.dll
