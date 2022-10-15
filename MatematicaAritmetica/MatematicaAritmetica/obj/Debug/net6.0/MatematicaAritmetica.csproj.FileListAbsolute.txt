@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\bin\Debug\net6.0\MatematicaAritmetica.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\bin\Debug\net6.0\MatematicaAritmetica.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\bin\Debug\net6.0\MatematicaAritmetica.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\bin\Debug\net6.0\MatematicaAritmetica.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\bin\Debug\net6.0\MatematicaAritmetica.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\refint\MatematicaAritmetica.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\MatematicaAritmetica.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\MatematicaAritmetica\MatematicaAritmetica\obj\Debug\net6.0\ref\MatematicaAritmetica.dll
