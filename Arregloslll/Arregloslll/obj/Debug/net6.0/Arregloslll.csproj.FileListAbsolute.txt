@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\bin\Debug\net6.0\Arregloslll.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\bin\Debug\net6.0\Arregloslll.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\bin\Debug\net6.0\Arregloslll.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\bin\Debug\net6.0\Arregloslll.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\bin\Debug\net6.0\Arregloslll.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\refint\Arregloslll.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\Arregloslll.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Arregloslll\Arregloslll\obj\Debug\net6.0\ref\Arregloslll.dll
