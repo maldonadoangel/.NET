@@ -1,0 +1,12 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\bin\Debug\GeneradorDeCasos.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\bin\Debug\GeneradorDeCasos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\bin\Debug\GeneradorDeCasos.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.GeneradorDeCasos.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\GeneradorDeCasos\GeneradorDeCasos\obj\Debug\GeneradorDeCasos.Plantilla.resources
