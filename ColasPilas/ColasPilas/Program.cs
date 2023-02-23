@@ -73,3 +73,38 @@ if (greetingStack.Contains("Morales"))
 Console.WriteLine($"El numero de elementos de nuestra pila: {greetingStack.Count}, despues que ejecutamos el metodo Clear");
 
 Console.ReadKey();
+
+
+//Colas o Queue
+Console.ForegroundColor = ConsoleColor.Yellow;
+Queue greetingQueue = new Queue();
+greetingQueue.Enqueue("Angel");
+greetingQueue.Enqueue("Hernan");
+greetingQueue.Enqueue("Morales");
+greetingQueue.Enqueue("Maldonado");
+contador = greetingQueue.Count;
+Console.WriteLine($"Hay {greetingQueue.Count} elementos en la cola");
+for(int i = 0 ; i < contador; i++)
+{
+    palabra = (string?)greetingQueue.Peek();
+    Console.WriteLine($"El elemento que sigue en la cola es: {palabra}");
+    palabra = (string?)greetingQueue.Dequeue();
+    Console.WriteLine($"El valor de la cola es: {palabra}");
+}
+Console.WriteLine($"La cantidad de elementos en la cola: {greetingQueue.Count}, despues que lo extraemos con Dequeue");
+Console.ReadKey();
+
+
+//Contains y clear
+Console.ForegroundColor = ConsoleColor.Magenta;
+greetingQueue.Enqueue("Angel");
+greetingQueue.Enqueue("Hernan");
+greetingQueue.Enqueue("Morales");
+greetingQueue.Enqueue("Maldonado");
+contador = greetingQueue.Count;
+
+if (greetingQueue.Contains("Maldonado"))
+{
+    greetingQueue.Clear();
+}
+Console.WriteLine($"La cola contiene: {greetingQueue.Count} elementos");
