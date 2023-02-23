@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\bin\Debug\net6.0\Matrices.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\bin\Debug\net6.0\Matrices.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\bin\Debug\net6.0\Matrices.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\bin\Debug\net6.0\Matrices.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\bin\Debug\net6.0\Matrices.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\refint\Matrices.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\Matrices.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\Matrices\Matrices\obj\Debug\net6.0\ref\Matrices.dll

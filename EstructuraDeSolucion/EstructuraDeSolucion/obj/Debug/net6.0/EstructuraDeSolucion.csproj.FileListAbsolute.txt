@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\bin\Debug\net6.0\EstructuraDeSolucion.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\bin\Debug\net6.0\EstructuraDeSolucion.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\bin\Debug\net6.0\EstructuraDeSolucion.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\bin\Debug\net6.0\EstructuraDeSolucion.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\bin\Debug\net6.0\EstructuraDeSolucion.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\refint\EstructuraDeSolucion.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\EstructuraDeSolucion.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\EstructuraDeSolucion\EstructuraDeSolucion\obj\Debug\net6.0\ref\EstructuraDeSolucion.dll
