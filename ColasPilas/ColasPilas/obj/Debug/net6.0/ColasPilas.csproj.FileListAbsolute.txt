@@ -1,0 +1,15 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\bin\Debug\net6.0\ColasPilas.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\bin\Debug\net6.0\ColasPilas.deps.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\bin\Debug\net6.0\ColasPilas.runtimeconfig.json
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\bin\Debug\net6.0\ColasPilas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\bin\Debug\net6.0\ColasPilas.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.AssemblyInfoInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.AssemblyInfo.cs
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\refint\ColasPilas.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ColasPilas.genruntimeconfig.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\ColasPilas\ColasPilas\obj\Debug\net6.0\ref\ColasPilas.dll
