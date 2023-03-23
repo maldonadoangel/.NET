@@ -1,0 +1,12 @@
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\CotizacionSipa.exe.config
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\CotizacionSipa.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\CotizacionSipa.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.AssemblyReference.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.SuggestedBindingRedirects.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.Form1.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.Properties.Resources.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.GenerateResource.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.CoreCompileInputs.cache
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.exe
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.pdb
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.Cotizacion.resources
