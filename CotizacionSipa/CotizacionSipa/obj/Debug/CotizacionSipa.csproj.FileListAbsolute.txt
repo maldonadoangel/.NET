@@ -10,3 +10,7 @@ C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\o
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.exe
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.pdb
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.Cotizacion.resources
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\itextsharp.dll
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\itextsharp.xml
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.CopyComplete
