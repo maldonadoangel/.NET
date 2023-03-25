@@ -64,5 +64,18 @@ namespace CotizacionSipa
             dgvProductos.Columns.Add("Total", "Total");
             
         }
+
+        private void btnAgregarProducto_Click(object sender, EventArgs e)
+        {
+            Form informacionProducto = new InformacionProducto ();
+            informacionProducto.Show();
+        }
+
+        
+
+        private void catalogoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

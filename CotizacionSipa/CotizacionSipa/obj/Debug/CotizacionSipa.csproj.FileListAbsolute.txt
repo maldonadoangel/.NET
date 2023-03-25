@@ -14,3 +14,4 @@ C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\b
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\itextsharp.dll
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\bin\Debug\itextsharp.xml
 C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.csproj.CopyComplete
+C:\Users\maldo\OneDrive\Escritorio\C#-.NET-CURSO\CotizacionSipa\CotizacionSipa\obj\Debug\CotizacionSipa.InformacionProducto.resources
